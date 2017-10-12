@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/Aithaks/Ckals",
-	"GoVersion": "go1.8.3",
+	"GoVersion": "go1.9.1",
 	"GodepVersion": "v104",
 	"Deps": [
 		{
